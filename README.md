@@ -23,9 +23,13 @@ weather-app/
 Apri il file index.html nel browser
 
 Guida all’uso
+
 Apri l'app nel browser
+
 Inserisci il nome di una città nel campo di input
+
 Clicca su "Cerca"
+
 Visualizza il risultato direttamente nella pagina
 
 Output di esempio
